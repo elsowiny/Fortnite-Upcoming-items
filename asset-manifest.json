@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fortnite-Upcoming-items/static/css/main.1c219b89.chunk.css",
+    "main.js": "/Fortnite-Upcoming-items/static/js/main.94a9dc0e.chunk.js",
+    "main.js.map": "/Fortnite-Upcoming-items/static/js/main.94a9dc0e.chunk.js.map",
+    "runtime-main.js": "/Fortnite-Upcoming-items/static/js/runtime-main.132393e7.js",
+    "runtime-main.js.map": "/Fortnite-Upcoming-items/static/js/runtime-main.132393e7.js.map",
+    "static/js/2.11f15608.chunk.js": "/Fortnite-Upcoming-items/static/js/2.11f15608.chunk.js",
+    "static/js/2.11f15608.chunk.js.map": "/Fortnite-Upcoming-items/static/js/2.11f15608.chunk.js.map",
+    "static/js/3.79f77c3c.chunk.js": "/Fortnite-Upcoming-items/static/js/3.79f77c3c.chunk.js",
+    "static/js/3.79f77c3c.chunk.js.map": "/Fortnite-Upcoming-items/static/js/3.79f77c3c.chunk.js.map",
+    "index.html": "/Fortnite-Upcoming-items/index.html",
+    "static/css/main.1c219b89.chunk.css.map": "/Fortnite-Upcoming-items/static/css/main.1c219b89.chunk.css.map",
+    "static/js/2.11f15608.chunk.js.LICENSE.txt": "/Fortnite-Upcoming-items/static/js/2.11f15608.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.132393e7.js",
+    "static/js/2.11f15608.chunk.js",
+    "static/css/main.1c219b89.chunk.css",
+    "static/js/main.94a9dc0e.chunk.js"
+  ]
+}
